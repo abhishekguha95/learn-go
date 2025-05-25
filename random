@@ -1,0 +1,19 @@
+// package main
+
+// import (
+// 	"fmt"
+// 	"math/rand"
+// )
+
+// // RandomNumber generates a random number between min and max (inclusive).
+// func RandomNumber(min, max int) (ret_val int) {
+// 	ret_val = min + rand.Intn(max-min+1)
+// 	return
+// }
+
+// func main() {
+// 	// Generate a random number between 1 and 10
+// 	min, max := 1, 10
+// 	randomNum := RandomNumber(min, max)
+// 	fmt.Printf("Random number between %d and %d: %d\n", min, max, randomNum)
+// }
